@@ -71,6 +71,8 @@
         <\equation*>
           lim<rsub|n\<rightarrow\>\<infty\>>d<around*|(|x<rsub|n>,y<rsub|n>|)>=d<around*|(|x,y|)>
         </equation*>
+
+        \;
       </answer*>
 
       (b) Use (a) to give another short proof of HW2 Ex3: for any
