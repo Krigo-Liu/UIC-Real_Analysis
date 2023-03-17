@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lecture Note/Real Analysis 3-3.md",
+                "file": "Lecture Note/Real Analysis.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "71143b084a8ab0cd",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lecture Note/Real Analysis 3-3.md",
+                "file": "Lecture Note/Real Analysis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lecture Note/Real Analysis 3-3.md",
+                "file": "Lecture Note/Real Analysis.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lecture Note/Real Analysis 3-3.md"
+                "file": "Lecture Note/Real Analysis.md"
               }
             }
           },
@@ -158,17 +157,20 @@
   },
   "active": "190fa24d3750a68b",
   "lastOpenFiles": [
-    "README.md",
-    "Lecture Note/Real Analysis 3-3.md",
-    "Lecture/3-3 continuous function.pdf",
-    "Lecture/3-10 compactness part 1.pdf",
+    "Lecture/2-20 metric space def and eg.pdf",
     "Lecture/2-17 notes - overview.pdf",
+    "2023-03-17.md",
+    "Lecture/3-10 compactness part 1.pdf",
     "Analysis II (Terence Tao) (Z-Library).pdf",
-    "未命名",
+    "README.md",
     "Richard Johnsonbaugh - Foundations of Mathematical Analysis (Pure & Applied Mathematics)-Marcel Dekker Inc (1981).pdf",
+    "Lecture Note/Real Analysis.md",
+    "HW/HW answer/HW3(Yuhao Liu2030033035).pdf",
+    "HW/HW answer/HW3/HW3.tm",
+    "HW/HW answer/HW3/HW3 beta.tm",
+    "HW/HW answer/HW3 beta.tm",
+    "HW/HW answer/HW3",
     "2023-03-14.md",
-    "未命名.canvas",
-    "Lecture Note",
-    "HW/HW answer/HW1/HW1(Yuhao Liu2030033035).pdf"
+    "未命名.canvas"
   ]
 }
