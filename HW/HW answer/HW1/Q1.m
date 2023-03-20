@@ -1,0 +1,18 @@
+clear;clc;
+R = 1;
+%p = 2;
+a = [0 3 5];
+b = [5 6 6];
+c = [9 2 7];
+sol1 = distance(1,a,b);
+sol2 = distance(1,a,c);
+sol3 = distance(1,c,b);
+disp(sol1 +"<="+sol2+"+"+sol3);
+sol1 = distance(3,a,b);
+sol2 = distance(3,a,c);
+sol3 = distance(3,c,b);
+disp(sol1 +"<="+sol2+"+"+sol3);
+sol1 = distance(0,a,b);
+sol2 = distance(0,a,c);
+sol3 = distance(0,c,b);
+disp(sol1 +"<="+sol2+"+"+sol3);
